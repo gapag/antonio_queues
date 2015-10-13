@@ -1,4 +1,4 @@
 antonio_queues
 ==============
 
-An exercise in programming, implementing Antonio's single queue server
+An exercise in programming, implementing a single queue server
